@@ -19,7 +19,7 @@
     "repository": "https://github.com/Saru2188/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5298885585:AAHzDymuUclxVgQyeAPxMq7lpeQ-q6iKG3Qz",
             "required": true
         },
         "API_ID": {
